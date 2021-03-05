@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+/tags
+/.tags
+*.lprof
+/build
+*.so
+*.o
+deps/
+dist
+pyhlm.egg-info
+/sample/figures/
+/sample/parameters/
+/sample/results/
+/sample/summary_files/
+/sample/sample_results
